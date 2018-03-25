@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("TEset 3\n");
+	printf("TEset 3.1\n");
     return 0;
 }
 
